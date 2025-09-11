@@ -111,7 +111,7 @@
           <tr>
             <td colspan="2" style="padding: 8px; text-align: center;">
               <a href="tel:9600052851">
-                <img src="https://img.shields.io/badge/📱_PHONE_+44_7867_034729-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=32CD32" alt="Phone"/>
+                <img src="https://img.shields.io/badge/📱_PHONE_+91_96000_52851-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=32CD32" alt="Phone"/>
               </a>
             </td>
           </tr>
@@ -136,7 +136,7 @@
 ## 📊 **GitHub Analytics - Data Visualization**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivas1432&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danedie04&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivas1432&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
 </div>
 
