@@ -1,27 +1,186 @@
-# 💫 About Me:
-🔭 I’m currently working as Freelancer<br>🌱 I’m currently learning New AI Technologies<br>👨‍💻 All of my projects are available at https://github.com/Danedie04 AND https://codepen.io/hhnkbcli-the-lessful<br>💬 Ask me about front-end, Java, MYSQL, openAI and Springboot Etc.<br>📫 How to reach me dineshkumar04workspace@gmail.com<br>⚡ Fun fact ** I read at least one new book every week. **<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/dinesh-kumar-429968200/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pinterest.com/https://in.pinterest.com/dane_die/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://quora.com/profile/https://www.quora.com/profile/Dinesh-Kumar-50666) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/https://stackoverflow.com/users/28917822/dinesh-kumar) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/hhnkbcli-the-lessful) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshkumar04workspace@gmail.com) 
+<div align="center">
+  <img src="./14.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=DINESHKUMAR" alt="Name Header"/>
+  <br/>
+ 
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Danedie04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Danedie04&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danedie04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Simple Side-by-Side Layout -->
+<div align="center">
+  <table style="border-collapse: collapse; margin: 20px auto; background: linear-gradient(135deg, #0D1117, #1a1a2e); border-radius: 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0, 255, 65, 0.3);">
+    <tr>
+      <td style="padding: 30px; vertical-align: middle;">
+        <h2 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 19px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
+          ◢◣◥◤◢◣ FULL-STACK WEB DEVELOPER ◢◣◥◤◢◣
+        </h2>
+        <h3 style="color: #00D4AA; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00D4AA; margin: 8px 0;">
+          ◥◤◢◣◥◤ React | Node.js | Python Expert ◥◤◢◣◥◤
+        </h3>
+        <h3 style="color: #FF6EC7; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FF6EC7; margin: 8px 0;">
+          ◢◣◥◤◢◣ Cloud Architect & Data Analyst ◢◣◥◤◢◣
+        </h3>
+        <h3 style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #FFD700; margin: 8px 0;">
+          ◥◤◢◣◥◤ Building Scalable Applications ◥◤◢◣◥◤
+        </h3>
+        <h3 style="color: #DC143C; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #DC143C; margin: 8px 0;">
+          ◢◣◥◤◢◣ SQL Insights & Performance Optimization ◢◣◥◤◢◣
+        </h3>
+      </td>
+      <td style="padding: 20px; vertical-align: middle; background: radial-gradient(circle, rgba(0, 255, 65, 0.1), transparent);">
+        <img src="./12.gif" alt="Tech Animation" width="270" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 30px rgba(0, 255, 65, 0.1); border: 2px solid #00FF41;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Danedie04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Snake Animation - TOP ONLY -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Danedie04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Profile Counters with Neon Effect -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivas1432&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/shivas1432?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/CARDIFF-WALES-red?style=for-the-badge&logo=github&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Danedie04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ **Tech Arsenal - Weapons of Creation**
+
+<div align="center">
+
+| **Tech Skills** |      |
+|:---:|:---:|
+| **🎯 Frontend Mastery**<br><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,jquery&theme=dark" alt="Frontend"/><br><br>**⚡ Backend & Cloud Power**<br><img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase,gcp,aws&theme=dark" alt="Backend"/><br><br>**🔧 Development Arsenal**<br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify,vercel,docker&theme=dark" alt="Tools"/><br><br>**💻 Programming Languages**<br><img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql&theme=dark" alt="Languages"/> | <img src="./2.gif" alt="Tech Animation" width="300"/> |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=80&lines=LET'S+BUILD+SOMETHING+AMAZING!;CONNECT+%26+COLLABORATE+🤝;OPEN+TO+NEW+OPPORTUNITIES!" alt="Connect Header"/>
+</div>
+
+<!-- Animated Connector Lines -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=500&height=30&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Connector"/>
+</div>
+
+<!-- Social Links with GIF Side by Side -->
+<div align="center">
+  <table style="border-collapse: collapse; margin: 20px auto;">
+    <tr>
+      <td style="padding: 20px; vertical-align: middle;">
+        <!-- Party Animation GIF -->
+        <img src="./15.gif" alt="Party Animation" width="200"/>
+      </td>
+      <td style="padding: 20px; vertical-align: middle;">
+        <!-- Social Links Table -->
+        <table style="border-collapse: collapse;">
+          <tr>
+            <td style="padding: 8px;">
+              <a href="mailto:dineshkumar04workspace@gmail.com">
+                <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6EC7" alt="Email"/>
+              </a>
+            </td>
+            <td style="padding: 8px;">
+              <a href="https://www.linkedin.com/in/dinesh-kumar-429968200/">
+                <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px;">
+              <a href="https://dinesh-personal-portfolioed.netlify.app/">
+                <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
+              </a>
+            </td>
+            <td style="padding: 8px;">
+              <a href="https://www.instagram.com/japanimelovers/">
+                <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding: 8px; text-align: center;">
+              <a href="tel:+91 9600052851">
+                <img src="https://img.shields.io/badge/📱_PHONE_+44_7867_034729-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&color=32CD32" alt="Phone"/>
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Call to Action -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+Got+an+exciting+project%3F+Let's+discuss!;🚀+Available+for+freelance+%26+full-time+opportunities" alt="Call to Action"/>
+</div>
+
+<!-- Decorative Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=5000&pause=1000&color=888888&center=true&vCenter=true&width=400&height=25&lines=✨+Response+time%3A+Within+24+hours+✨" alt="Response Time"/>
+</div>
+
+---
+
+## 📊 **GitHub Analytics - Data Visualization**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivas1432&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivas1432&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
+</div>
+
+<!-- Modified Streak Stats with Custom Values -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivas1432&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 💭 **Daily Developer Wisdom**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%22The+best+code+is+written+when+you+understand;the+problem+deeply%2C+not+when+you+know;the+solution+quickly.%22+-+Anonymous" alt="Daily Quote"/>
+</div>
+
+---
+
+## 📈 **GitHub Trophy Collection**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivas1432&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎯 **Fun Facts About Me**
+
+<details>
+<summary>🎮 <strong>Personal Interests & Digital Life</strong></summary>
+
+- 🌍 **Location:** Cardiff, Wales - Love the Welsh countryside and tech scene!
+- ☕ **Coding Fuel:** Coffee enthusiast - peak performance at 2 AM
+- 🎵 **Coding Soundtrack:** Lo-fi hip hop and synthwave while building apps
+- 📚 **Learning Philosophy:** Hands-on project building > theoretical learning
+- 🎯 **2025 Mission:** Master AI/ML integration in scalable web applications
+- 🤝 **Open Source:** Always excited about collaborative development
+- ⚖️ **Work-Life Balance:** Sustainable development practices advocate
+- 🎨 **Design Aesthetic:** Clean code is beautiful code
+- 🚀 **Innovation Mindset:** "Why follow when you can lead the tech evolution?"
+
+</details>
+
+---
+
+<!-- Winter Themed Sign Off -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visiting+my+digital+workspace!;Let's+build+something+amazing+together!" alt="Sign Off"/>
+</div>
