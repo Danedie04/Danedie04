@@ -1,10 +1,9 @@
-
-
 <div align="center">
   <img src="./14.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=DINESHKUMAR.S" alt="Name Header"/>
   <br/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Anime Sparkle" width="100" style="margin: 10px;"/>
  
 </div>
 
@@ -31,6 +30,8 @@
       </td>
       <td style="padding: 20px; vertical-align: middle; background: radial-gradient(circle, rgba(0, 255, 65, 0.1), transparent);">
         <img src="./12.gif" alt="Tech Animation" width="270" style="border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 30px rgba(0, 255, 65, 0.1); border: 2px solid #00FF41;"/>
+        <br/>
+        <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Video Game Pixel Art" width="150" style="margin: 5px; border-radius: 10px;"/>
       </td>
     </tr>
   </table>
@@ -40,6 +41,7 @@
 <!-- Snake Animation - TOP ONLY -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Anime Snake" width="100" style="margin: 10px;"/>
 </div>
 
 <!-- Profile Counters with Neon Effect -->
@@ -48,6 +50,8 @@
   <img src="https://img.shields.io/github/followers/shivas1432?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/CARDIFF-WALES-red?style=for-the-badge&logo=github&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status"/>
+  <br/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8J2m5t4z4zK/giphy.gif" alt="Video Game Counter" width="120" style="margin: 10px;"/>
 </div>
 
 ---
@@ -58,7 +62,7 @@
 
 | **Tech Skills** |      |
 |:---:|:---:|
-| **🎯 Frontend Mastery**<br><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,jquery&theme=dark" alt="Frontend"/><br><br>**⚡ Backend & Cloud Power**<br><img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase,gcp,aws&theme=dark" alt="Backend"/><br><br>**🔧 Development Arsenal**<br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify,vercel,docker&theme=dark" alt="Tools"/><br><br>**💻 Programming Languages**<br><img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql&theme=dark" alt="Languages"/> | <img src="./2.gif" alt="Tech Animation" width="300"/> |
+| **🎯 Frontend Mastery**<br><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,jquery&theme=dark" alt="Frontend"/><br><br>**⚡ Backend & Cloud Power**<br><img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase,gcp,aws&theme=dark" alt="Backend"/><br><br>**🔧 Development Arsenal**<br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify,vercel,docker&theme=dark" alt="Tools"/><br><br>**💻 Programming Languages**<br><img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql&theme=dark" alt="Languages"/> | <img src="./2.gif" alt="Tech Animation" width="300"/><br/><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8U/giphy.gif" alt="Anime Tech Magic" width="200" style="margin: 5px; border-radius: 10px;"/> |
 
 </div>
 
@@ -66,6 +70,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=80&lines=LET'S+BUILD+SOMETHING+AMAZING!;CONNECT+%26+COLLABORATE+🤝;OPEN+TO+NEW+OPPORTUNITIES!" alt="Connect Header"/>
+  <img src="https://media.giphy.com/media/26tPpl7uN1DLm8gCg/giphy.gif" alt="Video Game Collaboration" width="150" style="margin: 10px;"/>
 </div>
 
 <!-- Animated Connector Lines -->
@@ -80,6 +85,8 @@
       <td style="padding: 20px; vertical-align: middle;">
         <!-- Party Animation GIF -->
         <img src="./15.gif" alt="Party Animation" width="200"/>
+        <br/>
+        <img src="https://media.giphy.com/media/3o7aDgf116R1sRtX8E/giphy.gif" alt="Anime Party" width="150" style="margin: 5px;"/>
       </td>
       <td style="padding: 20px; vertical-align: middle;">
         <!-- Social Links Table -->
@@ -116,6 +123,8 @@
             </td>
           </tr>
         </table>
+        <br/>
+        <img src="https://media.giphy.com/media/5Z7rLfKGkbaIC/giphy.gif" alt="Video Game Social" width="120" style="margin: 5px;"/>
       </td>
     </tr>
   </table>
@@ -124,6 +133,7 @@
 <!-- Call to Action -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+Got+an+exciting+project%3F+Let's+discuss!;🚀+Available+for+freelance+%26+full-time+opportunities" alt="Call to Action"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Anime Excitement" width="100" style="margin: 10px;"/>
 </div>
 
 <!-- Decorative Footer -->
@@ -138,11 +148,14 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danedie04&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danedie04&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
+  <br/>
+  <img src="https://media.giphy.com/media/l0Iyl55k76V87R9p2/giphy.gif" alt="Video Game Stats" width="150" style="margin: 10px; border-radius: 10px;"/>
 </div>
 
 <!-- Modified Streak Stats with Custom Values -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivas1432&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://media.giphy.com/media/26BRv0KAvbZqZ0o0o/giphy.gif" alt="Anime Streak" width="120" style="margin: 10px;"/>
 </div>
 
 ---
@@ -150,6 +163,7 @@
 ## 💭 **Daily Developer Wisdom**
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%22The+best+code+is+written+when+you+understand;the+problem+deeply%2C+not+when+you+know;the+solution+quickly.%22+-+Anonymous" alt="Daily Quote"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8J2m5t4z4zK/giphy.gif" alt="Video Game Wisdom" width="100" style="margin: 10px;"/>
 </div>
 
 ---
@@ -157,6 +171,8 @@
 ## 📈 **GitHub Trophy Collection**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivas1432&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <br/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8U/giphy.gif" alt="Anime Trophy" width="150" style="margin: 10px; border-radius: 10px;"/>
 </div>
 
 ---
@@ -175,6 +191,8 @@
 - ⚖️ **Work-Life Balance:** Sustainable development practices advocate
 - 🎨 **Design Aesthetic:** Clean code is beautiful code
 - 🚀 **Innovation Mindset:** "Why follow when you can lead the tech evolution?"
+<br/>
+<img src="https://media.giphy.com/media/5Z7rLfKGkbaIC/giphy.gif" alt="Video Game Fun Fact" width="200" style="margin: 10px; border-radius: 10px;"/>
 
 </details>
 
@@ -183,4 +201,5 @@
 <!-- Winter Themed Sign Off -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visiting+my+digital+workspace!;Let's+build+something+amazing+together!" alt="Sign Off"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Anime Sign Off" width="120" style="margin: 10px;"/>
 </div>
