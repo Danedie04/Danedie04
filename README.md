@@ -133,12 +133,6 @@
 
 ---
 
-## 📊 **GitHub Analytics - Data Visualization**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danedie04&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danedie04&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
-</div>
 
 <!-- Modified Streak Stats with Custom Values -->
 <div align="center">
@@ -152,14 +146,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%22The+best+code+is+written+when+you+understand;the+problem+deeply%2C+not+when+you+know;the+solution+quickly.%22+-+Anonymous" alt="Daily Quote"/>
 </div>
 
----
 
-## 📈 **GitHub Trophy Collection**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivas1432&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🎯 **Fun Facts About Me**
 
