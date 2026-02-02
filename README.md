@@ -58,7 +58,7 @@
 
 | **Tech Skills** |      |
 |:---:|:---:|
-| **🎯 Frontend Mastery**<br><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,jquery&theme=dark" alt="Frontend"/><br><br>**⚡ Backend & Cloud Power**<br><img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase,gcp,aws&theme=dark" alt="Backend"/><br><br>**🔧 Development Arsenal**<br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify,vercel,docker&theme=dark" alt="Tools"/><br><br>**💻 Programming Languages**<br><img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql&theme=dark" alt="Languages"/> | <img src="./2.gif" alt="Tech Animation" width="300"/> |
+| **🎯 Frontend Mastery**<br><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,jquery&theme=dark" alt="Frontend"/><br><br>**⚡ Backend & Cloud Power**<br><img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase,gcp,aws&theme=dark" alt="Backend"/><br><br>**🔧 Development Arsenal**<br><img src="https://skillicons.dev/icons?i=git,github,vscode,flutter,postman,heroku,netlify,vercel,docker&theme=dark" alt="Tools"/><br><br>**💻 Programming Languages**<br><img src="https://skillicons.dev/icons?i=python,js,java,dart,cpp,sql&theme=dark" alt="Languages"/> | <img src="./2.gif" alt="Tech Animation" width="300"/> |
 
 </div>
 
