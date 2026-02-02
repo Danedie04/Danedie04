@@ -14,7 +14,7 @@
     <tr>
       <td style="padding: 30px; vertical-align: middle;">
         <h2 style="color: #00FF41; font-family: 'Courier New', monospace; font-size: 19px; text-shadow: 0 0 10px #00FF41; margin: 8px 0;">
-          ◢◣◥◤◢◣ FULL-STACK WEB DEVELOPER ◢◣◥◤◢◣
+          ◢◣◥◤◢◣ FULL-STACK WEB/APP DEVELOPER ◢◣◥◤◢◣
         </h2>
         <h3 style="color: #00D4AA; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 8px #00D4AA; margin: 8px 0;">
           ◥◤◢◣◥◤ React | Node.js | Python Expert ◥◤◢◣◥◤
