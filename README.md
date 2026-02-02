@@ -131,13 +131,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=5000&pause=1000&color=888888&center=true&vCenter=true&width=400&height=25&lines=✨+Response+time%3A+Within+24+hours+✨" alt="Response Time"/>
 </div>
 
----
-
-
-<!-- Modified Streak Stats with Custom Values -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivas1432&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
-</div>
 
 ---
 
